@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+originMedical/
+venv/
+env/
+ENV/
+
+details/masks/
+details/*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+images/
+
+# Model Checkpoints & Weights
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.weights
+
+# Training Logs
+logs/
+tensorboard/
+wandb/
+
+# Output & Results
+output/
+results/
+predictions/
+visualizations/
+
+# Data (augmented - can be regenerated)
+data/augmented/
+
+# Large data files (keep originals, ignore processed)
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Documentation builds
+docs/_build/

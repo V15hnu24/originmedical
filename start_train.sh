@@ -1,0 +1,1 @@
+python train_landmark.py --model heatmap --backbone resnet50 --epochs 5 --batch_size 8 --num_workers 0 --gpus 1

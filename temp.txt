@@ -1,0 +1,28 @@
+1 - C
+2 - D
+3 - P
+4 - Dol
+
+11 - C
+2 - D
+3 - P
+4 - Dol
+
+21 - C
+2 - D
+3 - P
+4 - Dol
+
+4 - classes
+
+black cat - cat
+white dog - dog
+
+white cat -> dog 
+
+grayscaling -> 
+
+Total - 500 
+
+train - 400 - 100 per class
+val - 100
