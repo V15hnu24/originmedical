@@ -1,0 +1,1 @@
+scripts/evaluation/evaluate_coordinate.sh

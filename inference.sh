@@ -1,0 +1,1 @@
+scripts/evaluation/run_inference.sh
